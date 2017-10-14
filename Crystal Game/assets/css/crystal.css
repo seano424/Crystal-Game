@@ -1,0 +1,30 @@
+body {
+	background: url('https://www.cirquedusoleil.com/-/media/images/shows/crystal/hero-show/crystal_about_new_1920x710.jpg?la=en&vs=1&hash=D3A15D8468E4AE30A607CC80A727030D73C5F6E6');
+}
+
+
+.header {
+	background: orange;
+	width: 50%;
+	text-align: left;
+	margin-left: 10px;
+}
+
+.paragraph {
+	background: #e3c9e8;
+	width: 50%;
+	margin-left: 10px;
+}
+
+.numberToGetTo {
+	background: #91db90;
+	width: 50%;
+	margin-left: 10px;
+}
+
+.total {
+	background: #828282;
+	width: 50%;
+	margin-left: 10px;
+	margin-top: 10px;
+}
